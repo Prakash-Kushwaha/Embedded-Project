@@ -1,6 +1,5 @@
 /*
 *    BIT_MATH.h
-*    Name : Omar Elsherif
 *    Desc: Header file contains macros to manipulate bits in a register 
 */
 

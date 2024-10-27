@@ -1,6 +1,5 @@
 /*
 *    STD_TYPES.h
-*    Name : Omar Elsherif
 *    Desc: Header file contains standard types definations 
 */
 

@@ -1,8 +1,7 @@
 /*
 *    LCD_Config.h
-*    Name : Omar Elsherif
 *    Version: 1.0
-*    Date: 10-9-2023
+*    Date: 24-10-2024
 *    Desc: Header file contains configurations for LCD driver 
 */
 

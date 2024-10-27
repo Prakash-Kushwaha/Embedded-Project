@@ -1,8 +1,7 @@
 /*
 *    ADC_Interface.h
-*    Name : Omar Elsherif
 *    Version: 1.0
-*    Date: 12-9-2023
+*    Date: 24-10-2024
 *    Desc: Header file contains functions prototypes for ADC driver 
 */
 

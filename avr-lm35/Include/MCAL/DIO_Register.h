@@ -1,8 +1,7 @@
 /*
 *    DIO_Register.h
-*    Name : Omar Elsherif
 *    Version: 1.0
-*    Date: 8-9-2023
+*    Date: 24-10-2024
 *    Desc: Header file contains registers addresses for DIO driver 
 */
 

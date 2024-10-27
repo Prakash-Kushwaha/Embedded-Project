@@ -1,8 +1,7 @@
 /*
 *    DIO_Program.c
-*    Name : Omar Elsherif
 *    Version: 1.0
-*    Date: 8-9-2023
+*    Date: 24-10-2024
 *    Desc: Code file contains the code for DIO driver 
 */
 
