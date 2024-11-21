@@ -42,12 +42,15 @@ This project uses the **LM35 temperature sensor** to measure the surrounding tem
 
 ### **Pin Connections:**
 
+- [Schematic](Schematic.png)
+
 | **Component**        | **ATmega32 Pin** | **Description**                  |
 |----------------------|------------------|----------------------------------|
 | LM35 Output          | ADC0 (PA0)       | LM35 analog voltage output      |
 | LCD Data (D0-D7)     | PD0-PD7          | Data pins for LCD               |
 | LCD Control (RS, RW, EN) | PB0-PB2        | Control pins for LCD            |
 | LCD Power (VCC, GND) | VCC, GND         | Power supply to LCD             |
+
 
 ### **Software Requirements**
 - **AVR GCC Compiler** for compiling C code.
