@@ -1,5 +1,3 @@
-# **Readme.md**
-
 ## **Temperature Measurement using LM35 and ATmega32**
 
 This project demonstrates how to measure temperature using the **LM35 temperature sensor** with an **ATmega32** microcontroller and display the measured temperature on an **LCD**. The LM35 sensor outputs an analog voltage which is directly proportional to the temperature, and the ADC (Analog-to-Digital Converter) of the ATmega32 is used to convert this analog voltage into a digital value. The result is then displayed on an LCD screen.
@@ -42,7 +40,7 @@ This project uses the **LM35 temperature sensor** to measure the surrounding tem
 
 ### **Pin Connections:**
 
-- [Schematic](Schematic.png)
+- [!Schematic](Schematic.png)
 
 | **Component**        | **ATmega32 Pin** | **Description**                  |
 |----------------------|------------------|----------------------------------|
