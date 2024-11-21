@@ -7,7 +7,7 @@ This project demonstrates how to measure temperature using the **LM35 temperatur
 - LCD display of the temperature
 - Conversion of ADC value to actual temperature in Celsius
 - Code running on ATmega32 microcontroller
-- Simple LCD interfacing using control and data pins
+- Simple LCD 16x2 interfacing using control and data pins
 
 ---
 
@@ -40,7 +40,7 @@ This project uses the **LM35 temperature sensor** to measure the surrounding tem
 
 ### **Pin Connections:**
 
-- [!Schematic](Schematic.png)
+- ![Project Schematic](./schematic.png)
 
 | **Component**        | **ATmega32 Pin** | **Description**                  |
 |----------------------|------------------|----------------------------------|
